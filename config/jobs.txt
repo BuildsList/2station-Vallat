@@ -1,0 +1,35 @@
+Shift Supervisor=1
+Transhumanist Overseer=1
+Head of Security=1
+Chief Engineer=1
+Research Director=1
+Chief Medical Officer=1
+Head of Nutrition=1
+Chief Psychiatrist=1
+
+Engineer=5
+Atmospheric Technician=2
+Machinist=3
+Cargo Unit=3
+Unit=8
+Roboticist=1
+
+Psychiatrist=3
+Medical Doctor=5
+Geneticist"=1
+
+Scientist=5
+Chemist=1
+
+Detective=1
+Bartender=1
+Botanist=1
+Chef=1
+Medical janitor=1
+Assistant=-1
+
+Chief Security Officer=1
+Security Officer=12
+
+Cyborg=0
+pAI=0
